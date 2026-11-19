@@ -8,7 +8,7 @@ This 1892 annual report from the Baofushan Christian Hospital in Fuzhou records 
 
 - JSON 保留欄位及各幅來源雜湊。TXT 可連讀，TEI 可供交換與字位掛接。
 
-- 本資料為 AI 輔助初錄 0.1.0。原 image 與部件索引可供回圖；□表示待辨字。尚待人工逐字覆核。
+- 全冊由兩份各自看原圖的 AI 讀稿進行差異比對，回圖裁定並訂正 10 處原欄文字。疑讀與原印差異照實保留。尚待人工全文校對。
 
 - 歷史原刊為公有領域。新撰說明與編碼 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
 
