@@ -13,3 +13,5 @@ This 1892 annual report from the Baofushan Christian Hospital in Fuzhou records 
 - 歷史原刊為公有領域。新撰說明與編碼 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。
 
 - 資料整理者曲宸宇（Chen-Yu Chu）。 [ORCID](https://orcid.org/0009-0003-9738-6914)
+
+下載和引用請用 [Zenodo v0.2.0](https://doi.org/10.5281/zenodo.24361180) 或 [GitHub 固定發行版](https://github.com/poplolioi11/harvard-drs430994626-baofushan-hospital-report-1892/releases/tag/v0.2.0)。本目錄的校驗表對應固定發行包，主分支的引用資料可隨 DOI 登記更新。

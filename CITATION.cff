@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "Please cite the transcription version and its source edition."
 type: dataset
-title: "保福山聖教醫館略述十七編 | Annual Report of the Baofushan Christian Hospital, No. 17"
+title: "保福山聖教醫館略述十七編(哈佛燕京圖書館 TA 7908.31/68(1892),DRS 430994626) / Annual Report of the Baofushan Christian Hospital, No. 17: Transcription Dataset"
+doi: "10.5281/zenodo.24361180"
 version: "0.2.0"
 authors:
   - family-names: Chu
