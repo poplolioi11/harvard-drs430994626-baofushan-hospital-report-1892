@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="zh-Hant">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>保福山聖教醫館略述十七編</title>
+        <title type="translated">Annual Report of the Baofushan Christian Hospital, No. 17</title>
+        <author>保福山聖教醫館</author>
+        <respStmt>
+          <resp>數位轉錄整理</resp>
+          <name ref="https://orcid.org/0009-0003-9738-6914">曲宸宇</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>曲宸宇</publisher>
+        <availability>
+          <licence target="https://creativecommons.org/publicdomain/mark/1.0/">原刊公有領域。</licence>
+          <licence target="https://creativecommons.org/licenses/by/4.0/">新撰編輯說明與資料編碼採 CC BY 4.0。</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>保福山聖教醫館略述十七編</title>
+          <publisher>美華書局</publisher>
+          <pubPlace>福州</pubPlace>
+          <date when="1892">1892</date>
+          <idno type="shelfmark">哈佛燕京圖書館 TA 7908.31/68（1892），DRS 430994626</idno>
+          <ref target="https://id.lib.harvard.edu/alma/990103927690203941/catalog" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" xml:id="page-1">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page1-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="2" xml:id="page-2">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page2-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="3" xml:id="page-3">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page3-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="4" xml:id="page-4">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page4-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="5" xml:id="page-5">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page5-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="6" xml:id="page-6">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page6-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="7" xml:id="page-7">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page7-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="8" xml:id="page-8">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page8-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="9" xml:id="page-9">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page9-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="10" xml:id="page-10">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page10-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="11" xml:id="page-11">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page11-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="12" xml:id="page-12">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page12-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="13" xml:id="page-13">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page13-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="14" xml:id="page-14">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page14-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="15" xml:id="page-15">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page15-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="16" xml:id="page-16">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page16-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="17" xml:id="page-17">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page17-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="18" xml:id="page-18">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page18-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="19" xml:id="page-19">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page19-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="20" xml:id="page-20">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page20-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="21" xml:id="page-21">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page21-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="22" xml:id="page-22">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page22-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="23" xml:id="page-23">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page23-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+    <surface n="24" xml:id="page-24">
+      <graphic url="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf/page24-1920px-Harvard_drs_430994626_%E4%BF%9D%E7%A6%8F%E5%B1%B1%E8%81%96%E6%95%99%E9%86%AB%E9%A4%A8%E7%95%A5%E8%BF%B0.pdf.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="historical-transcription">
+        <pb n="1" facs="#page-1" />
+        <ab type="heading" n="p01-c01">保福山醫館畧述十七編</ab>
+        <pb n="2" facs="#page-2" />
+        <pb n="3" facs="#page-3" />
+        <ab type="imprint" n="p03-c01">光緒十八年卽</ab>
+        <ab type="heading" n="p03-c02">保福山聖教醫館畧述</ab>
+        <ab type="imprint" n="p03-c03">西歷一千八百九十二年　福州美華書局活板</ab>
+        <pb n="4" facs="#page-4" />
+        <pb n="5" facs="#page-5" />
+        <ab type="heading" n="p05-c01">保福山聖教醫館畧述十七編</ab>
+        <ab type="body" n="p05-c02">本館開設自同治九年起迄今二十有三年矣茲將光緒</ab>
+        <ab type="body" n="p05-c03">十七年十二月並十八年全年所有治療諸症畧述謹報</ab>
+        <ab type="body" n="p05-c04">各憲暨諸位捐題　仁台凡為病魔所擾者咸叨樂捐</ab>
+        <ab type="body" n="p05-c05">仁愛之心感恩匪既矣但本歲用欵頗覺節儉而施治更</ab>
+        <ab type="body" n="p05-c06">盛於曩時夏間弗遑避暑多在館而少乘凉故抱恙者卽</ab>
+        <ab type="body" n="p05-c07">酷暑亦樂居館內洵榻上客常滿瓶中藥不空焉本年諸</ab>
+        <ab type="body" n="p05-c08">症與往歲等其中危要之症最多倘無西國醫器亦不能</ab>
+        <ab type="body" n="p05-c09">起死回生可惜憂采薪者未知熟地遲服藥者因誤當歸</ab>
+        <fw type="running" n="p05-c10">保福山聖教醫館畧述</fw>
+        <fw type="folio" n="p05-c11">一</fw>
+        <pb n="6" facs="#page-6" />
+        <ab type="body" n="p06-c01">若童稚雲迷銀海遲之又久而始來則治之亦無可治也</ab>
+        <ab type="body" n="p06-c02">竊想榕垣各處稚子患目疾者類皆由父母失治倘早來</ab>
+        <ab type="body" n="p06-c03">館按法施方閩閫庶幾少病眼耳至若皮膚諸症數照前</ab>
+        <ab type="body" n="p06-c04">年處症之間多因不潔子女宜一禮拜洗浴一次用乾布</ab>
+        <ab type="body" n="p06-c05">擦皮膚使不受濕氣凡人洗身有後患者是因洗後未拭</ab>
+        <ab type="body" n="p06-c06">乾淨非洗身有後患也養生路諸症中胃氣痛最多此症</ab>
+        <ab type="body" n="p06-c07">或因食歹物或食物太急不嚼蓋人齒雖穎食物宜緩緩</ab>
+        <ab type="body" n="p06-c08">強勉嚼之可免胃氣之痛夫病亦何常之有人知謹防或</ab>
+        <ab type="body" n="p06-c09">可免病間有智慧所不及免者亦有之本館無論何病皆</ab>
+        <pb n="7" facs="#page-7" />
+        <ab type="body" n="p07-c01">係小心診治以期藥到疾瘳有時要需絕妙器具奈數年</ab>
+        <ab type="body" n="p07-c02">間所捐錢文恨不敷購伏望中外　仁台克知敝館所應</ab>
+        <ab type="body" n="p07-c03">用此器多題靑蚨補余所缺俾各症如法治療俱能遂願</ab>
+        <ab type="body" n="p07-c04">何幸如之本歲更有新增書房常備萬國公報等卷每日</ab>
+        <ab type="body" n="p07-c05">下午有識字病人者可以寓目暢懷稍助病機挽轉又在</ab>
+        <ab type="body" n="p07-c06">年底各房油漆光潔來年宿館者亦樂肆目一新</ab>
+        <ab type="body" n="p07-c07">本年住館者共計三百九十八人逐日外來新症就診者</ab>
+        <ab type="body" n="p07-c08">共計五千一百四十一人除住館外新舊合算統計一萬</ab>
+        <ab type="body" n="p07-c09">三千三百零七人自開館以來至今統計約畧診治十五</ab>
+        <fw type="running" n="p07-c10">保福山聖教醫館畧述</fw>
+        <fw type="folio" n="p07-c11">二</fw>
+        <pb n="8" facs="#page-8" />
+        <ab type="body" n="p08-c01">萬六千人茲將外來就治者諸症按類臚陳於左　部症</ab>
+        <ab type="body" n="p08-c02">六百六十人　耳諸症一百零四人　肌肉症一千八百</ab>
+        <ab type="body" n="p08-c03">三十七人　養生路諸症八百三十人　核諸症一百二</ab>
+        <ab type="body" n="p08-c04">十三人　骨並骨節症一百二十七人　鼻諸症三十五</ab>
+        <ab type="body" n="p08-c05">人　腦筋症七十五人　眼等症四百五十四人　呼吸</ab>
+        <ab type="body" n="p08-c06">症一百四十人　陰陽諸症二百四十人　雜症五百二</ab>
+        <ab type="body" n="p08-c07">十六人統計五千一百四十人</ab>
+        <ab type="body" n="p08-c08">又將全年住館要症開列于左</ab>
+        <ab type="heading" n="p08-c09">眼症</ab>
+        <pb n="9" facs="#page-9" />
+        <ab type="body" n="p09-c01">板睛九人　瞳人縮小五人　作假瞳人三人　變質三</ab>
+        <ab type="body" n="p09-c02">人　睛衣舊炎十二人　新炎五人　腦筋壞二人　明</ab>
+        <ab type="body" n="p09-c03">衣傷破二人　眼簾炎一人　眼球全壞三人　倒插十</ab>
+        <ab type="body" n="p09-c04">四人　白雲四人</ab>
+        <ab type="heading" n="p09-c05">瘋濕症</ab>
+        <ab type="body" n="p09-c06">舊瘋七人　新風四人　花柳風三人　節風二人</ab>
+        <ab type="heading" n="p09-c07">陰陽症</ab>
+        <ab type="body" n="p09-c08">內痔十人　外痔八人　漏管三十二人　由白濁溺管</ab>
+        <ab type="body" n="p09-c09">縮小三人　跌傷溺管縮小二人　包頭便十二人　硬</ab>
+        <fw type="running" n="p09-c10">保福山聖教醫館畧述</fw>
+        <fw type="folio" n="p09-c11">三</fw>
+        <pb n="10" facs="#page-10" />
+        <ab type="body" n="p10-c01">生加十六人　軟生加十八人　魚口五人　卵子炎四</ab>
+        <ab type="body" n="p10-c02">人　水疝五人　男淫瘡二人　肛門內皮爛一人　小</ab>
+        <ab type="body" n="p10-c03">便捲皮一人　小便口肉瘤一人　象腎一人　腎囊花</ab>
+        <ab type="body" n="p10-c04">柳爛四人　下消一人</ab>
+        <ab type="heading" n="p10-c05">骨節症</ab>
+        <ab type="body" n="p10-c06">扯敗骨三人　<gap reason="unresolved" quantity="1" unit="character" />處壞骨三人　牙牀敗骨四人　牙牀</ab>
+        <ab type="body" n="p10-c07">爛管一人　背骨灣斜一人　臂骨出輪一人　扯甲炎</ab>
+        <ab type="body" n="p10-c08">三人　接肘骨一人　脊柱骨刀傷一人　膝處筋縮一</ab>
+        <ab type="body" n="p10-c09">人</ab>
+        <pb n="11" facs="#page-11" />
+        <ab type="heading" n="p11-c01">受傷症</ab>
+        <ab type="body" n="p11-c02">炮子傷五人　犬咬五人　蛇咬二人　湯火傷一人</ab>
+        <ab type="body" n="p11-c03">人咬手扯敗骨一人　火藥傷一人　膝節跌破二人</ab>
+        <ab type="heading" n="p11-c04">養生症</ab>
+        <ab type="body" n="p11-c05">缺唇四人　胃痛五人　血衰五人　蠱脹二人　全體</ab>
+        <ab type="body" n="p11-c06">虛腫二人　救服鴉片毒一人　戒烟二人　痢症一人</ab>
+        <ab type="body" n="p11-c07">熱症四人</ab>
+        <ab type="heading" n="p11-c08">腦筋症</ab>
+        <ab type="body" n="p11-c09">偏瘋二人　戰瘋一人　受鉛毒瘋一人　痲瘋二人</ab>
+        <fw type="running" n="p11-c10">保福山聖教醫館畧述</fw>
+        <fw type="folio" n="p11-c11">四</fw>
+        <pb n="12" facs="#page-12" />
+        <ab type="body" n="p12-c01">爛痲瘋四人</ab>
+        <ab type="heading" n="p12-c02">花柳症</ab>
+        <ab type="body" n="p12-c03">楊梅瘡二人　爛骨五人　爛管四人　爛皮十人</ab>
+        <ab type="heading" n="p12-c04">瘤症</ab>
+        <ab type="body" n="p12-c05">肉瘤五人　爛瘤三人　手　毒瘤三人　膝骨瘤一人</ab>
+        <ab type="body" n="p12-c06">腎囊毒瘤一人</ab>
+        <ab type="heading" n="p12-c07">呼吸症</ab>
+        <ab type="body" n="p12-c08">舊嗽四人　肺勞二人</ab>
+        <ab type="heading" n="p12-c09">皮膚症</ab>
+        <pb n="13" facs="#page-13" />
+        <ab type="body" n="p13-c01">爛皮二十八人　大沙蹄一人　水螆九人　耳內瘡癤</ab>
+        <ab type="body" n="p13-c02">二人</ab>
+        <ab type="heading" n="p13-c03">肌肉症</ab>
+        <ab type="body" n="p13-c04">小膿瘡七人　大腿深膿瘡六人　爛管三十一人</ab>
+        <ab type="heading" n="p13-c05">核症</ab>
+        <ab type="body" n="p13-c06">核炎三人</ab>
+        <ab type="heading" n="p13-c07">鋸症</ab>
+        <ab type="body" n="p13-c08">鋸肢一人　鋸手三人　以上等症共計三百九十八人</ab>
+        <ab type="body" n="p13-c09">又將諸症中分類開列</ab>
+        <fw type="running" n="p13-c10">保福山聖教醫館畧述</fw>
+        <fw type="folio" n="p13-c11">五</fw>
+        <pb n="14" facs="#page-14" />
+        <ab type="body" n="p14-c01">士子八人　農夫一百五十人　作工五十四人　作商</ab>
+        <ab type="body" n="p14-c02">四十六人　哨官三人　兵丁九十六人　幕賓一人</ab>
+        <ab type="body" n="p14-c03">隨官三人　差役七人　討魚十六人　行舟十四人</ab>
+        <ab type="body" n="p14-c04">內全愈二百九十九人　小愈九十五人　照常四人</ab>
+        <ab type="heading" n="p14-c05">割諸症開列於左</ab>
+        <ab type="body" n="p14-c06">放膿瘡一百二十一人　割指趾十三人　鋸手肘一人</ab>
+        <ab type="body" n="p14-c07">鋸手臂二人　鋸腳一人　割陽物毒瘤一人　割瘤</ab>
+        <ab type="body" n="p14-c08">四十八人　割包頭便二十九人　透溺管險症八人</ab>
+        <ab type="body" n="p14-c09">割象腎囊一人　割眼等症四十三人　取眼球一人</ab>
+        <pb n="15" facs="#page-15" />
+        <ab type="body" n="p15-c01">療內外痔四十五人　取蛀牙四百一十八人　割漏管</ab>
+        <ab type="body" n="p15-c02">三十三人　割被柴竹刺傷症六人　接骨二人　補缺</ab>
+        <ab type="body" n="p15-c03">唇六人　補缺耳一人　放水泡四人　割無肛門一人</ab>
+        <ab type="body" n="p15-c04">箝敗骨十四人　開肛下管三人　拔壞甲八人　綁</ab>
+        <ab type="body" n="p15-c05">縛血管五人　開小孩無肛門一人　放蠱脹二人　收</ab>
+        <ab type="body" n="p15-c06">脫肛四人　取石淋一人　統計八百二十三人</ab>
+        <ab type="body" n="p15-c07">以上諸割症中有奇症者會顯西法之良如一炮首為放</ab>
+        <ab type="body" n="p15-c08">炮自悞轟裂手腕割鋸腐腕俾不至毒移肱臂生命得以</ab>
+        <ab type="body" n="p15-c09">保全又一人臀生一大瘤割下稱之重四十一兩割眼中</ab>
+        <fw type="running" n="p15-c10">保福山聖教醫館畧述</fw>
+        <fw type="folio" n="p15-c11">六</fw>
+        <pb n="16" facs="#page-16" />
+        <ab type="body" n="p16-c01">間多因眼患倒睫非割之則致瞽所記綁縛血管皆係要</ab>
+        <ab type="body" n="p16-c02">症其餘輕症毋庸詳述尤幸者本年並無住館逝世者惟</ab>
+        <ab type="body" n="p16-c03">有一流丐在館門之外奄奄將斃余見之一時惻隱收入</ab>
+        <ab type="body" n="p16-c04">館中施治無何竟為異物隨卽備材瘞埋又以上未載者</ab>
+        <ab type="body" n="p16-c05">本年間有人延余往救難產者數次惜時太過遲母活而</ab>
+        <ab type="body" n="p16-c06">子斃有時太遲或母子不能俱保但救產如救兵星速為</ab>
+        <ab type="body" n="p16-c07">妙倘早延余庶有生氣矣</ab>
+        <ab type="body" n="p16-c08">茲蒙</ab>
+        <ab type="heading" n="p16-c09">諸憲樂捐銀欵開列于左</ab>
+        <pb n="17" facs="#page-17" />
+        <ab type="body" n="p17-c01">閩浙總督部堂卞　捐番銀五十元</ab>
+        <ab type="body" n="p17-c02">福州將軍希　捐番銀五十元</ab>
+        <ab type="body" n="p17-c03">布政使潘　捐番銀貳拾元</ab>
+        <ab type="body" n="p17-c04">按察使張　捐番銀貳拾元</ab>
+        <ab type="body" n="p17-c05">督糧道陳　捐番銀貳拾元</ab>
+        <ab type="body" n="p17-c06">鹽法道龍　捐番銀貳拾元</ab>
+        <ab type="body" n="p17-c07">候補道許　捐番銀貳拾元</ab>
+        <ab type="body" n="p17-c08">江蘇候補道蔡　捐番銀貳拾元</ab>
+        <ab type="body" n="p17-c09">福州府正堂侯　捐番銀拾五元</ab>
+        <fw type="running" n="p17-c10">保福山聖教醫館畧述</fw>
+        <fw type="folio" n="p17-c11">七</fw>
+        <pb n="18" facs="#page-18" />
+        <ab type="body" n="p18-c01">候補府正堂聶　捐番銀拾五元</ab>
+        <ab type="body" n="p18-c02">理事分府吉　捐番銀拾五元</ab>
+        <ab type="body" n="p18-c03">福防分府李　捐番銀拾五元</ab>
+        <ab type="body" n="p18-c04">閩縣正堂王　捐番銀壹拾元</ab>
+        <ab type="body" n="p18-c05">候官縣正堂李　捐番銀壹拾元</ab>
+        <ab type="heading" n="p18-c06">本館出入欵目</ab>
+        <ab type="body" n="p18-c07">前報更存番銀六十七元五角三尖</ab>
+        <ab type="body" n="p18-c08">官員捐番銀三百員</ab>
+        <ab type="body" n="p18-c09">外國客閩者捐銀貳百九十五元八角</ab>
+        <pb n="19" facs="#page-19" />
+        <ab type="body" n="p19-c01">售藥來銀四十四元七角九尖</ab>
+        <ab type="body" n="p19-c02">診症筆資來銀六十七元</ab>
+        <ab type="body" n="p19-c03">雜欵來銀四元四角七尖</ab>
+        <ab type="body" n="p19-c04">通共入銀七百七十九元五角九尖</ab>
+        <ab type="heading" n="p19-c05">用欵</ab>
+        <ab type="body" n="p19-c06">購外國藥品去銀三百六十六元零五尖</ab>
+        <ab type="body" n="p19-c07">購中國藥品等物去銀六十元一角二尖</ab>
+        <ab type="body" n="p19-c08">延華友工資共去銀一百四十九元八角</ab>
+        <ab type="body" n="p19-c09">購書並印醫館畧述去銀五十三元六角二尖</ab>
+        <fw type="running" n="p19-c10">保福山聖教醫館畧述</fw>
+        <fw type="folio" n="p19-c11">八</fw>
+        <pb n="20" facs="#page-20" />
+        <ab type="body" n="p20-c01">修理等費去銀一百八十四元三角八尖</ab>
+        <ab type="body" n="p20-c02">保險去銀十一元二角五尖</ab>
+        <ab type="body" n="p20-c03">通共去銀八百二十五元二角二尖</ab>
+        <ab type="body" n="p20-c04">對除更少銀四十四元六角三尖</ab>
+        <ab type="heading" n="p20-c05">更將前年醫學成就諸姓名開列於左</ab>
+        <ab type="body" n="p20-c06">張其煊　陳承惠　李振聲　章家裕</ab>
+        <ab type="heading" n="p20-c07">更有在館習醫者姓名開列於左</ab>
+        <ab type="body" n="p20-c08">陳和景　陳壽楷　林有生</ab>
+        <ab type="heading" n="p20-c09">西醫之書發售所有書名開列於左</ab>
+        <pb n="21" facs="#page-21" />
+        <ab type="catalog" n="p21-c01">化學初階　每部四本　裹紮新法　每部一本　西藥畧釋　每部四本</ab>
+        <ab type="catalog" n="p21-c02">花柳指迷　每部一本　內科全書　每部六本　全體闡微　每部六本</ab>
+        <ab type="catalog" n="p21-c03">眼科撮要　每部一本　醫書五種　每部五本　皮膚新編　每部一本</ab>
+        <ab type="catalog" n="p21-c04">儒門醫學　每部四本　炎症論　每部一本　體用十章　每部四本</ab>
+        <ab type="catalog" n="p21-c05">割症全書　每部一本　省身指掌　每部一本　化學易知　每部一本</ab>
+        <ab type="catalog" n="p21-c06">衞生要旨　每部一本</ab>
+        <fw type="running" n="p21-c07">保福山聖教醫館畧述</fw>
+        <fw type="folio" n="p21-c08">九</fw>
+        <pb n="22" facs="#page-22" />
+        <pb n="23" facs="#page-23" />
+        <pb n="24" facs="#page-24" />
+      </div>
+    </body>
+  </text>
+</TEI>

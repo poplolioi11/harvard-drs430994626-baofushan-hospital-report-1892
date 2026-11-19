@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the transcription version and its source edition."
+type: dataset
+title: "保福山聖教醫館略述十七編 | Annual Report of the Baofushan Christian Hospital, No. 17"
+version: "0.1.0"
+authors:
+  - family-names: Chu
+    given-names: Chen-Yu
+    orcid: "https://orcid.org/0009-0003-9738-6914"
+keywords:
+  - "醫學史"
+  - "福州"
+  - "保福山聖教醫館"
+  - "院務報告"
+  - "捐輸"
+  - "教會醫療"
+  - "medical history"
+  - "medical missions"
+  - "hospital annual reports"
+  - "Fuzhou"
+  - "book circulation"
+identifiers:
+  - type: url
+    value: "https://id.lib.harvard.edu/alma/990103927690203941/catalog"
